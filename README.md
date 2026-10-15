@@ -105,12 +105,8 @@ This project uses **ArrayList** and **HashMap** to store data during runtime. No
 
 **Alex Abishan**
 - GitHub: [@AlexAbishan11](https://github.com/AlexAbishan11)
-- Email: abiabishan725@gmail.com
 - Course: HND in Computing
 - Module: Programming
 
 ---
 
-##  License
-
-This project is created for **educational purposes** as part of the HND in Computing - Programming module assignment.
