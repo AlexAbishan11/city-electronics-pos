@@ -49,47 +49,7 @@ A Point of Sale (POS) system for an electronics shop built with **Java Swing**. 
 | Collections (ArrayList, HashMap) | In-memory data storage |
 
 ---
-##  Project Structure
 
-CityElectronics/
-├── src/
-│ ├── admin/ # Admin UI classes
-│ │ ├── AdminLoginUI.java
-│ │ ├── AdminDashboardUI.java
-│ │ ├── AddProductUI.java
-│ │ ├── ModifyProductUI.java
-│ │ ├── DeleteProductUI.java
-│ │ └── ViewOrdersUI.java
-│ │
-│ ├── customer/ # Customer UI classes
-│ │ ├── CustomerLoginUI.java
-│ │ ├── CustomerDashboardUI.java
-│ │ ├── ProductListUI.java
-│ │ ├── CartUI.java
-│ │ └── BillingUI.java
-│ │
-│ ├── models/ # Data models
-│ │ ├── Product.java
-│ │ ├── Customer.java
-│ │ ├── Cart.java
-│ │ ├── CartItem.java
-│ │ └── Order.java
-│ │
-│ ├── utils/ # Data storage (in-memory)
-│ │ ├── ProductData.java
-│ │ ├── CustomerData.java
-│ │ ├── OrderData.java
-│ │ └── SampleData.java
-│ │
-│ ├── ui/ # Main UI
-│ │ └── MainUI.java
-│ │
-│ └── images/ # Product images
-│
-└── README.md
-
-
----
 
 ##  Setup Instructions
 
